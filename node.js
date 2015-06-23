@@ -23,7 +23,7 @@ function node(){
 	var question;
 	var clr,x,y;
 	
-	this.methode1 = function methode1(){
+	this.methode1 =  function methode1(){
 		x=nodex;
 		y=nodey;
 		this.accept();
